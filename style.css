@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: radial-gradient(white,olive,green);
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+p{
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: fantasy;
+}
